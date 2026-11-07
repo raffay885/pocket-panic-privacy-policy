@@ -1,32 +1,35 @@
 # Pocket Panic – Privacy Policy
 
-This repository contains the official Privacy Policy for **Pocket Panic**, an Android casual mobile game developed by Abdul Raffay.
+This repository hosts the privacy policy for **Pocket Panic**, a casual Android game. It is separate from the game's source code.
 
-## Privacy Policy
+## Live policy
 
-The current Privacy Policy is published using GitHub Pages:
+[https://raffay885.github.io/pocket-panic-privacy-policy/](https://raffay885.github.io/pocket-panic-privacy-policy/)
 
-**https://raffay885.github.io/pocket-panic-privacy-policy/**
+The policy is published with GitHub Pages from `index.html` in this repository.
 
-## About Pocket Panic
+**Effective date:** 7 November 2026
 
-Pocket Panic is an offline-first casual game intended for adults aged 18 and older.
+## Scope
 
-The game does not require user accounts, registration, or login. It uses Google Mobile Ads to display advertisements and Google's User Messaging Platform (UMP) to manage applicable consent and privacy choices.
+The policy applies to the Android version of Pocket Panic, a game intended for adults aged 18 and older. It covers:
 
-## Repository Purpose
+- **Google Mobile Ads:** the banner and interstitial ads shown in the game, the information Google's SDK processes, and the game's use of non-personalized ads.
+- **Google User Messaging Platform (UMP):** how consent messages are shown where required.
+- **Local game data:** progress and preferences stored only on the device, such as the best score, best survival time, unlocked and selected characters, and the sound setting.
+- **Privacy choices:** reviewing or withdrawing consent through Settings → Privacy options where available, and removing local data.
 
-This repository hosts the public Privacy Policy for Pocket Panic. It is separate from the game's source-code repository.
+The game has no accounts, backend or cloud saves, and it does not send game data to the developer.
 
-## Contact
+## Developer and contact
 
-For privacy-related questions:
+**Developer:** Abdul Raffay
 
-**Email:** abdulraffay885@gmail.com
+**Email:** [abdulraffay885@gmail.com](mailto:abdulraffay885@gmail.com)
 
-## Policy Updates
+## Keeping the policy current
 
-The Privacy Policy may be updated when the application's functionality, third-party SDKs, advertising practices, or applicable requirements change.
+Update the policy, and its effective date, whenever the game's data practices, SDKs, Android permissions or applicable privacy requirements change.
 
 ---
 
